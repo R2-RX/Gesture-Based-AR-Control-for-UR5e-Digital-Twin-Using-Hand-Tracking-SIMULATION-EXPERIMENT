@@ -20,5 +20,5 @@ Research needed: AR-based human-robot interaction, digital twin systems, gesture
 Deliverables: AR application with UR5e digital twin, gesture-based control system in simulation, ROS2 + MoveIt 2 integration pipeline, full experimental protocol, raw dataset of user performance, statistical analysis report
 
 # Starting point: 
-- [Download Unity, use the unige email for the license](https://unity.com/products/unity-student use the unige email for the license)
+- [Download Unity, use the unige email for the license](https://unity.com/products/unity-student)
 - https://developer-docs.magicleap.cloud/docs/guides/developer-tools/ml-hub/magic-leap-hub/ Magic Leap 2 SDK -> download the Unity's packages from the ML Hub 2.0
